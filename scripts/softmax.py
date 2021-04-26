@@ -11,3 +11,7 @@ def softmax(L):
             denom += np.exp(score)
         results.append(np.exp(n)/denom)
     return results
+
+# A shorter alternative provided by udacity
+def softmax(x):
+    return np.exp(x) / np.sum(np.exp(x), axis=0)
