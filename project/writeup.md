@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/data_exploration.jpg "Visualization of the data set"
+[image1]: ./images/data_exploration.png "Visualization of the data set"
 [image2]: ./images/training_histogram.png "Histogram of training data classes"
 [image3]: ./images/validation_histogram.png "Histogram of validation data classes"
 [image4]: ./images/test_histogram.png "Histogram of test data classes"
